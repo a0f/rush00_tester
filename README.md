@@ -21,7 +21,7 @@ chmod +x rush_tester.sh generate_expected.sh
 
 Options:
 - `rush00|rush01|rush02|rush03|rush04` - Which rush to test
-- `-v` or `--verbose` - Show all test details
+- `-v` or `--verbose` - Show all output/expected output comparisons, even in the case of passes.
 
 ## Individual Scripts
 
